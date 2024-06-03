@@ -1,0 +1,5 @@
+Five Nights at Freddy's: The Silver Eyes|Scott Cawthon|1|True|None|Horror|2015|Years after the murders at Freddy Fazbear's Pizza, Charlie visits the abandoned restaurant.
+Five Nights at Freddy's: The Twisted Ones|Scott Cawthon|2|False|chriscant|Horror|2017|Charlie's fresh start is disrupted by nightmares and familiar murders.
+C# Programming: From Problem Analysis to Program Design|Barbara Doyle|7|True|None|Programming|2015|Forge a solid professional foundation as a novice C# programmer.
+Introduction to the Theory of Computation|Michael Sipser|12|True|None|Programming|2012|Gain a clear understanding of even the most complex, highly theoretical computational theory topics.
+The Happiness Advantage|Shawn Achor|14|True|None|Self-Improvement|2018|Happiness is not the belief that we don’t need to change. It is the realization that we can.
